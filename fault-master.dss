@@ -12,12 +12,12 @@ Redirect lines.dss
 Redirect no_load.dss
 // Redirect peak_loads.dss
 
-// Redirect pv0pc.dss
+Redirect pv0pc.dss
 // Redirect pv20pc.dss 
 // Redirect pv40pc.dss
 // Redirect pv60pc.dss
 // Redirect pv80pc.dss
-Redirect pv100pc.dss
+// Redirect pv100pc.dss
 
 // Redirect pv0MW.dss
 // Redirect pv1MW.dss
@@ -29,7 +29,7 @@ Redirect pv100pc.dss
 Set Voltagebases=[33 11.3]
 Set DefaultBaseFrequency=50
 
-set maxiterations=1000
+set maxiterations=100
 Solve
 Calcvoltagebases
 solve mode=faultstudy

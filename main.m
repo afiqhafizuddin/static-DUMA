@@ -12,8 +12,8 @@ DSSText.command = 'Compile (C:\Users\Afiq Hafizuddin\Documents\MATLAB\01-STATIC-
 % Voltage Profile
 % DSSText.command = 'Show voltage elem';
 % DSSText.command = 'Export voltage';
-% DSSText.command = 'Export seqvoltages';
-DSSText.command = 'Show Losses';
+DSSText.command = 'Export seqvoltages';
+% DSSText.command = 'Show Losses';
 % DSSText.command = 'Show current elem';
 % DSSText.command = 'Export seqcurrents';
 
@@ -23,5 +23,4 @@ DSSText.command = 'Show Losses';
 % DSSText.command = 'Show power kVA elem';
 % DSSText.command = 'Export power kVA';
 % DSSText.command = 'Export current';
-
 
