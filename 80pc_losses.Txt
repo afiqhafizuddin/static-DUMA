@@ -1,0 +1,54 @@
+
+LOSSES REPORT
+
+Power Delivery Element Loss Report
+
+Element                  kW Losses    % of Power   kvar Losses
+
+"Transformer.TX1"   9.62341,     0.15     240.609
+"Transformer.TX2"   9.62341,     0.15     240.609
+"Line.LINE2"        8.90219,     0.42     8.2161
+"Line.LINE3"        5.02117,     0.31     4.57869
+"Line.LINE4"        2.23603,     0.21     1.96837
+"Line.LINE5"        0.55969,     0.11     0.39726
+"Line.LINE6"        0.10956,     0.02     0.0896855
+"Line.LINE7"        0.44899,     0.07     0.221215
+"Line.LINE8"        1.38184,     0.21     0.396873
+"Line.LINE9"        0.43290,     0.06     0.341062
+"Line.LINE10"       1.62590,     0.32     1.1736
+"Line.LINE11"       0.02404,     0.04     -0.0316159
+"Line.LINE12"      16.29797,     0.59     18.0247
+"Line.LINE13"       1.52720,     0.09     1.39326
+"Line.LINE14"       0.25180,     0.05     0.0520416
+"Line.LINE15"       1.00416,     0.09     0.902345
+"Line.LINE16"       0.34357,     0.13     0.0594163
+"Line.LINE17"       0.31234,     2.78     -0.160871
+"Line.LINE18"       0.41327,     0.15     -0.224779
+"Line.LINE19"       0.05248,     0.03     -0.0810327
+"Line.LINE20"       0.08648,     0.10     -0.0491808
+"Line.LINE21"       0.02995,     0.02     -0.102147
+"Line.LINE22"       5.54660,     0.54     4.94068
+"Line.LINE23"       1.83047,     0.22     1.58739
+"Line.LINE24"       1.35176,     0.21     0.412498
+"Line.LINE25"       0.39585,     0.09     0.0815797
+"Line.LINE26"       0.18674,     0.05     0.00824169
+"Line.LINE27"      20.92978,     1.09     19.2355
+"Line.LINE28"       0.77585,     0.06     0.284929
+"Line.LINE29"       0.97113,     0.15     0.26163
+"Line.LINE30"       1.95283,     0.14     2.06684
+"Line.LINE31"       0.19978,     0.09     0.0575084
+"Line.LINE32"       0.02044,     0.02     -0.0307273
+"Line.LINE33"       0.01072,     0.02     -0.120258
+"Line.LINE34"       6.29927,     0.55     5.60764
+"Line.LINE35"       1.70759,     0.22     1.42104
+"Line.LINE36"       0.30523,     0.08     0.158125
+"Line.LINE37"       0.72032,     0.23     0.363203
+"Line.LINE38"       0.00375,     0.00     -0.00296949
+
+LINE LOSSES=                        84.3 kW
+TRANSFORMER LOSSES=                 19.2 kW
+
+TOTAL LOSSES=                      103.5 kW
+
+TOTAL LOAD POWER =               20357.9 kW
+Percent Losses for Circuit =      0.51 %
