@@ -2,12 +2,12 @@ Clear
 New Object=Circuit.TNB_DUMA BasekV=33 pu=1.0 Angle=0 phases=3 bus1=PPU_DUMA_33kV BaseFreq=50 ISC3=22500
 
 // Redirect transformer.dss
-Redirect lines.dss
+// Redirect lines.dss
 
-// Redirect tx_sectionalized.dss
-// Redirect lines_sectionalized.dss
+Redirect tx_sectionalized.dss
+Redirect lines_sectionalized.dss
 
-Redirect tx_contingency.dss
+// Redirect tx_contingency.dss
 
 // Redirect no_load.dss
 Redirect peak_loads.dss

@@ -1,4 +1,4 @@
-clear all;
+    clear all;
 clc;
 
 DSSObj = actxserver('OpenDSSEngine.DSS');
