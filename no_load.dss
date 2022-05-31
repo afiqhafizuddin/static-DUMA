@@ -1,7 +1,7 @@
 ! LOAD DEFINTIONS
 
 ! FEEDER 1 
-// New Object=Load.LOAD1 bus1=PPU_DUMA_VCB1 phases=3 kV=11 kW=0 PF=1
+New Object=Load.LOAD1 bus1=PPU_DUMA_VCB1 phases=3 kV=11 kW=0 PF=1
 
 ! FEEDER 2
 New Load.LOAD2 bus1=RPPLNGI2 phases=3 kV=11 kW=0 PF=1
